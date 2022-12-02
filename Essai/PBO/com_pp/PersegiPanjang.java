@@ -1,4 +1,6 @@
-package UTS.com;
+package UTS.PBO.com_pp;
+
+import UTS.PBO
 
 public class PersegiPanjang implements BangunDatar {
     double panjang;
