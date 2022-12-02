@@ -1,4 +1,6 @@
-package UTS.com;
+package UTS.PBO.com_sl;
+
+import UTS.PBO.BangunDatar;
 
 public class SetengahLingkaran implements BangunDatar {
     double jari2;
