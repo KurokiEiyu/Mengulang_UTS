@@ -1,7 +1,7 @@
 package UTS;
 
-import UTS.PBO.PersegiPanjang;
-import UTS.PBO.SetengahLingkaran;
+import UTS.PBO.com_pp.PersegiPanjang;
+import UTS.PBO.com_sl.SetengahLingkaran;
 
 public class Main {
     public static void main(String[] args) {
